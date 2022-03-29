@@ -1,1 +1,1 @@
-# Sistemas_Informacion
+# PRACTICA 1 (SISTEMAS DE INFORMACION)
